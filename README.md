@@ -1,7 +1,7 @@
 <h1 align="center">Nefr0l</h1>
 <h3 align="center">Student programmer who thinks he will be a game developer</h3>
 
-- I’m currently working on: [Ursynów the game](https://github.com/Nefr0l/utg)
+- I’m currently working on: Nothing
 
 - Tools: Unity, VSCode, Aseprite
 - Languages: C#, C++, Lua
