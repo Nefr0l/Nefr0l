@@ -1,6 +1,9 @@
 <h1 align="center">Nefr0l</h1>
 <h3 align="center">Student programmer who thinks he will be a game developer</h3>
 <hr>
+I am owner of Ursynów studios
+https://github.com/Ursynow-game-development
+
 <table align="center">
 <tr>
   <td>
