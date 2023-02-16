@@ -12,7 +12,9 @@ Languages:
 - C# - Intermediate
 - C++ - Basics
 - Lua - Intermediate
-- Java - Very basics
+- Java - Basics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefr0l)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
