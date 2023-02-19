@@ -15,7 +15,7 @@ Languages:
 - Lua - Intermediate
 - Java - Intermediate
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefr0l)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefr0l&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
