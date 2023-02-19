@@ -21,4 +21,4 @@ Languages:
 
 I'm owner of ursynów game development which created some cool things. [Check it out here](https://github.com/Ursynow-game-development)
 
-Ursynów the game 2 are in plans and it will be made in java language
+Ursynów the game 2 is in plans and it will be made in java language
