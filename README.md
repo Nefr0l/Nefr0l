@@ -8,6 +8,7 @@ Tools:
 - VSCode
 - Aseprite
 - IntelliJ IDEA
+- JetBrains Rider
 
 Languages:
 - C# - Intermediate
