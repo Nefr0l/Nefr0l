@@ -13,7 +13,7 @@ Tools:
 Languages:
 - C# - Intermediate
 - C++ - Basics
-- Lua - Intermediate
+- Lua - Basics
 - Java - Intermediate
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefr0l&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
