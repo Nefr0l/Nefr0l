@@ -29,10 +29,6 @@ Ursynów game development:
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefr0l&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-
 I'm owner of ursynów game development which created some cool things. [Check it out here](https://github.com/Ursynow-game-development)
 
 Ursynów the game 2 is in plans and it will be released around half-life 3 release date
