@@ -16,6 +16,19 @@ Languages:
 - Lua - Basics
 - Java - Intermediate
 
+<hr>
+
+<h4> Completed projects: </h4>
+
+Nefr0l:
+- [Retro Valley - Asset pack](https://github.com/Nefr0l/retrovalley-assetpack)
+
+Ursynów game development:
+- [Ursynów the game](https://github.com/Ursynow-game-development/ursynow-the-game)
+- [Ursynów Alcohol Alchemist](https://github.com/Ursynow-game-development/ursynow-alcohol-alchemist)
+
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefr0l&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
