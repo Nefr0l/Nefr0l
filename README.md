@@ -12,9 +12,11 @@ Tools:
 
 Languages:
 - C# - Intermediate
+- HTML/CSS - Intermediate
+- SQL - Bacics
 - C++ - Basics
-- Lua - Basics
-- Java - Intermediate
+- Java - Basics
+- Lua - Very basics
 
 <hr>
 
