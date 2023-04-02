@@ -18,17 +18,20 @@ Languages:
 - Java - Basics
 - Lua - Very basics
 
-<hr>
+## My projects:
 
-<h4> Completed projects: </h4>
-
-Nefr0l:
-- [Retro Valley - Asset pack](https://github.com/Nefr0l/retrovalley-assetpack)
-- [Bombillion Game](https://github.com/Nefr0l/bombillion-game)
-
-Ursynów game development:
+### Text games
 - [Ursynów the game](https://github.com/Ursynow-game-development/ursynow-the-game)
 - [Ursynów Alcohol Alchemist](https://github.com/Ursynow-game-development/ursynow-alcohol-alchemist)
+
+### Unity games
+- [Bombillion Game](https://github.com/Nefr0l/bombillion-game)
+
+### Unity demos
+- Coming soon
+
+### Game assets
+- [Retro Valley - Asset pack](https://github.com/Nefr0l/retrovalley-assetpack)
 
 <hr>
 
