@@ -28,7 +28,7 @@ Languages:
 - [Bombillion Game](https://github.com/Nefr0l/bombillion-game)
 
 ### Unity demos
-- Coming soon
+- [Audio mixer demo](https://github.com/Nefr0l/unity-audio-mixer/tree/main)
 
 ### Game assets
 - [Retro Valley - Asset pack](https://github.com/Nefr0l/retrovalley-assetpack)
