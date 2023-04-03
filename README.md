@@ -37,4 +37,4 @@ Languages:
 
 I'm owner of ursynów game development which created some cool things. [Check it out here](https://github.com/Ursynow-game-development)
 
-Ursynów the game 2 is in plans and it will be released around half-life 3 release date
+Ursynów the game 2 is releasing with half-life 3 somewhere in this millenium i think
