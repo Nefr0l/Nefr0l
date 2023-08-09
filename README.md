@@ -18,8 +18,6 @@ Languages:
 - Java - Basics
 - Lua - Very basics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nefr0l&hide=shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My projects:
 
 ### Text games
@@ -28,9 +26,6 @@ Languages:
 
 ### Unity games
 - [Bombillion Game](https://github.com/Nefr0l/bombillion-game)
-
-### Unity demos
-- [Audio mixer demo](https://github.com/Nefr0l/unity-audio-mixer/tree/main)
 
 ### Game assets
 - [Retro Valley - Asset pack](https://github.com/Nefr0l/retrovalley-assetpack)
