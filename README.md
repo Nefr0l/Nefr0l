@@ -22,12 +22,12 @@ Languages:
 
 ### Text games
 - [Ursynów the game](https://github.com/Ursynow-game-development/ursynow-the-game)
-- [Ursynów Alcohol Alchemist](https://github.com/Ursynow-game-development/ursynow-alcohol-alchemist)
+- [Ursynów Alchemist](https://github.com/Ursynow-game-development/ursynow-alcohol-alchemist)
 
 ### Unity games
 - [Bombillion Game](https://github.com/Nefr0l/bombillion-game)
 
-### Game assets
+### Other projects
 - [Retro Valley - Asset pack](https://github.com/Nefr0l/retrovalley-assetpack)
 
 <hr>
