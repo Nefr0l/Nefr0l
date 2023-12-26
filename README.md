@@ -7,16 +7,17 @@ Tools:
 - Unity (Mostly 2D games)
 - VSCode
 - Aseprite
-- IntelliJ IDEA
 - JetBrains Rider
+- IntelliJ IDEA
 
 Languages:
 - C# - Intermediate
 - HTML/CSS - Intermediate
-- SQL - Bacics
+- SQL - Intermediate
 - C++ - Basics
 - Java - Basics
-- Lua - Very basics
+- Java script - Basics
+- Python - Basics
 
 ## My projects:
 
@@ -29,9 +30,3 @@ Languages:
 
 ### Other projects
 - [Retro Valley - Asset pack](https://github.com/Nefr0l/retrovalley-assetpack)
-
-<hr>
-
-I'm owner of ursynów game development which created some cool things. [Check it out here](https://github.com/Ursynow-game-development)
-
-Ursynów the game 2 will be released tommorow.
