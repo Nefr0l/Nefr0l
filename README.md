@@ -1,5 +1,5 @@
 # Nefr0l
-### Student who thinks he will be a game developer
+<i>Student who thinks he will be a game developer</i>
 
 <hr>
 
@@ -18,6 +18,8 @@ Languages:
 - Java - Basics
 - Java script - Basics
 - Python - Basics
+
+<hr>
 
 ## My projects:
 
