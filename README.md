@@ -3,21 +3,13 @@
 
 <hr>
 
-Tools:
-- Unity (Mostly 2D games)
-- VSCode
-- Aseprite
-- JetBrains Rider
-- IntelliJ IDEA
-
 Languages:
 - C# - Intermediate
-- HTML/CSS - Intermediate
-- SQL - Intermediate
+- PHP - Intermediate
+- mySQL - Intermediate
 - C++ - Basics
 - Java - Basics
 - Java script - Basics
-- Python - Basics
 
 <hr>
 
@@ -29,6 +21,3 @@ Languages:
 
 ### Unity games
 - [Bombillion Game](https://github.com/Nefr0l/bombillion-game)
-
-### Other projects
-- [Retro Valley - Asset pack](https://github.com/Nefr0l/retrovalley-assetpack)
