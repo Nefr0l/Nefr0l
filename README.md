@@ -4,12 +4,13 @@
 <hr>
 
 Languages:
-- C# - Intermediate
+- C# - Advanced
 - PHP - Intermediate
 - mySQL - Intermediate
 - C++ - Basics
 - Java - Basics
 - Java script - Basics
+- Python - Basics
 
 <hr>
 
